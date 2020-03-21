@@ -1,5 +1,4 @@
 FROM arm64v8/maven:alpine
-MAINTAINER Swire Chen <idoop@msn.cn>
 
 ENV VERSION=1.5.1 \
     PORTAL_PORT=8070 \
