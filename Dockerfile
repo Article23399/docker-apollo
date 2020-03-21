@@ -1,4 +1,4 @@
-FROM maven:alpine
+FROM arm64v8/maven:alpine
 MAINTAINER Swire Chen <idoop@msn.cn>
 
 ENV VERSION=1.5.1 \
